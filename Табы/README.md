@@ -1,7 +1,7 @@
 *Внимание необходим jQuery*
 
 HTML:
-```
+```html
 <div class="tabs">
   <div class="btTabs">
     <div class="bt">Таб 1</div>

@@ -4,7 +4,7 @@
 ```js
 $(function(){
   $('select').vSelect([param]);
-  });
+});
 ```
 
 Возможен повторный вызов после получения select методом AJAX.
